@@ -1,10 +1,9 @@
 # Interpretable NLP
 This is a list of NLP interpretability research, which mainly covers recent papers on ACL, EMNLP, NAACL, ICLR, NIPS, ICML, etc.
 
-***Welcome to contribute!***
+***Welcome to contribute!*** 
 
-Template:
-- [Paper Title](https://www.google.com) (Venue Year)
+Please follow the template and send the PR: **++[Paper Title](https://www.google.com) (Venue Year)++**
 
 #### Classification
 - [EDUCE: Explaining model Decisions through Unsupervised Concepts Extraction](https://arxiv.org/abs/1905.11852) (Arxiv 2019)
@@ -19,8 +18,7 @@ Template:
 - [Understanding Neural Networks through Representation Erasure](https://arxiv.org/abs/1612.08220) (Arxiv 2016) 
 - [Explaining Predictions of Non-Linear Classifiers in NLP](https://www.aclweb.org/anthology/W16-1601) (ACL 2016 Workshop)
 - [Rationalizing Neural Predictions](https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf) (EMNLP 2016)
-
-
+- [Comparing Automatic and Human Evaluation of Local Explanations for Text Classification](https://www.aclweb.org/anthology/N18-1097) (NAACL 2018)
 
 #### Sequence to Sequence
 - [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/abs/1811.01157) (ICLR 2019)
@@ -35,11 +33,11 @@ Template:
 - [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365) (ICML 2017)
 - [Visualizing and Understanding Neural Models in NLP](https://www.aclweb.org/anthology/N16-1082) (NAACL 2016)
 
-
 #### Sequence Labeling
 - [Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?](https://www.aclweb.org/anthology/D18-1365) (EMNLP 2018)
 
-
-#### Others (e.g., NLI)
+#### Others (e.g., NLI, Embedding)
 - [Learning Corresponded Rationales for Text Matching](https://openreview.net/forum?id=rklQas09tm) (ICLR 2019 Submission)
 - [Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style](https://aclweb.org/anthology/papers/W/W18/W18-5415/) (EMNLP 2018 Workshop)
+- [Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference](https://arxiv.org/pdf/1808.03894.pdf) (EMNLP 2018)
+- [SPINE: SParse Interpretable Neural Embeddings](https://arxiv.org/abs/1711.08792) (AAAI 2018)
