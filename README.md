@@ -3,8 +3,7 @@ This is a list of NLP interpretability research, which mainly covers recent pape
 
 ***Welcome to contribute!*** 
 
-Please follow the template and send the PR: **++[Paper Title](https://www.google.com) (Venue Year)++**
-
+Please follow the template and send the PR: **[Paper Title](https://www.google.com) (Venue Year)**
 #### Classification
 - [EDUCE: Explaining model Decisions through Unsupervised Concepts Extraction](https://arxiv.org/abs/1905.11852) (Arxiv 2019)
 - [Is Attention Interpretable?](https://arxiv.org/pdf/1906.03731) (NAACL 2019)
