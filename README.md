@@ -5,6 +5,8 @@ This is a list of NLP interpretability research, which mainly covers recent pape
 
 Please follow the template and send the PR: **[Paper Title](https://www.google.com) (Venue Year)**
 #### Classification
+- [Visualizing and Understanding the Effectiveness of BERT](https://arxiv.org/pdf/1908.05620.pdf) (Arxiv 2019)
+- [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626.pdf) (EMNLP 2019)
 - [EDUCE: Explaining model Decisions through Unsupervised Concepts Extraction](https://arxiv.org/abs/1905.11852) (Arxiv 2019)
 - [Is Attention Interpretable?](https://arxiv.org/pdf/1906.03731) (NAACL 2019)
 - [Attention is not Explanation](https://arxiv.org/abs/1902.10186) (NAACL 2019)
@@ -18,6 +20,7 @@ Please follow the template and send the PR: **[Paper Title](https://www.google.c
 - [Explaining Predictions of Non-Linear Classifiers in NLP](https://www.aclweb.org/anthology/W16-1601) (ACL 2016 Workshop)
 - [Rationalizing Neural Predictions](https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf) (EMNLP 2016)
 - [Comparing Automatic and Human Evaluation of Local Explanations for Text Classification](https://www.aclweb.org/anthology/N18-1097) (NAACL 2018)
+
 
 #### Sequence to Sequence
 - [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/abs/1811.01157) (ICLR 2019)
