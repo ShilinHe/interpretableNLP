@@ -5,14 +5,25 @@ This repo collects recent publications on NLP interpretability research from top
 
 Please follow the template and raise a pull request: **[Paper Title](https://www.google.com) (Venue Year)**
 
-#### General Study
+
+Table of Content
+- [Interpretable NLP](#interpretable-nlp)
+    - [General Study](#general-study)
+    - [Pretraining](#pretraining)
+    - [Sequence to Sequence](#sequence-to-sequence)
+    - [Classification](#classification)
+    - [Sequence Labeling](#sequence-labeling)
+    - [Others](#others)
+
+
+### General Study
 - [Learning to Deceive with Attention-Based Explanations](https://arxiv.org/pdf/1909.07913.pdf) (ACL 2020)
 - [Towards Transparent and Explainable Attention Models](https://arxiv.org/pdf/2004.14243v1.pdf) (ACL 2020)
 - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf) (ACL 2020)
 - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492/) (ACL 2020)
 - [What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models](https://arxiv.org/abs/1812.09355) (AAAI 2019)
 
-#### Pretraining
+### Pretraining
 - [ExpBERT: Representation Engineering with Natural Language Explanations](https://arxiv.org/abs/2005.01932) (ACL 2020)
 - [How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope](https://www.aclweb.org/anthology/2020.acl-main.429.pdf) (ACL 2020)
 - [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/) (ACL 2020)
@@ -21,7 +32,7 @@ Please follow the template and raise a pull request: **[Paper Title](https://www
 - [Quantifying Attention Flow in Transformers](https://www.aclweb.org/anthology/2020.acl-main.385.pdf) (ACL 2020) 
 - [Visualizing and Understanding the Effectiveness of BERT](https://arxiv.org/pdf/1908.05620.pdf) (Arxiv 2019)
 
-#### Sequence to Sequence
+### Sequence to Sequence
 - [Evaluating Explanation Methods for Neural Machine Translation](https://arxiv.org/pdf/2005.01672.pdf) (ACL 2020)
 - [Understanding Points of Correspondence between Sentences for Abstractive Summarization](https://www.aclweb.org/anthology/2020.acl-srw.26.pdf) (ACL 2020) [[github]](https://github.com/ucfnlp/points-of-correspondence)
 - [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/abs/1811.01157) (ICLR 2019)
@@ -37,7 +48,7 @@ Please follow the template and raise a pull request: **[Paper Title](https://www
 - [Visualizing and Understanding Neural Models in NLP](https://www.aclweb.org/anthology/N16-1082) (NAACL 2016)
 
 
-#### Classification
+### Classification
 - [Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection](https://www.aclweb.org/anthology/2020.acl-main.494.pdf) (ACL 2020)
 - [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419.pdf) (ACL 2020)
 - [Understanding Attention for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.312.pdf) (ACL 2020)
@@ -57,11 +68,11 @@ Please follow the template and raise a pull request: **[Paper Title](https://www
 - [Comparing Automatic and Human Evaluation of Local Explanations for Text Classification](https://www.aclweb.org/anthology/N18-1097) (NAACL 2018)
 
 
-#### Sequence Labeling
+### Sequence Labeling
 - [Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?](https://www.aclweb.org/anthology/D18-1365) (EMNLP 2018)
 
 
-#### Others (e.g., NLI, Embedding)
+### Others
 - [Generating Fact Checking Explanations](https://www.aclweb.org/anthology/2020.acl-main.656/) (ACL 2020)
 - [Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations](https://www.aclweb.org/anthology/2020.acl-main.382.pdf) (ACL 2020)
 - [NILE: Natural Language Inference with Faithful Natural Language Explanations](https://arxiv.org/abs/2005.12116) (ACL 2020)
